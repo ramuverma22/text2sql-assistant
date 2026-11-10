@@ -1,0 +1,6 @@
+pandas>=2.0
+streamlit>=1.40
+plotly>=5.20
+python-dotenv>=1.0
+tabulate>=0.9
+pytest>=8.0
